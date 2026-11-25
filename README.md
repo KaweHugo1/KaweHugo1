@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, eu sou o Kawe 
 
-<!--
-**KaweHugo1/KaweHugo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Engenharia de Software** (Uniube) com foco em **desenvolvimento backend**.
+Venho da área industrial, onde trabalhei como Operador de Processo Industrial, então gosto de criar sistemas que resolvem problemas reais de operação.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
+Python · SQL · JavaScript · FastAPI · SQLite · Oracle · Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projeto em destaque
+**Sistema de Controle de Estoque**: controle de materiais e EPIs, demandas de serviço e registro de retiradas por funcionário.
+Stack: Python, FastAPI, SQLite.
+
+## 📫 Contato
+[LinkedIn](www.linkedin.com/in/kaweferreira)
